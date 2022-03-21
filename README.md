@@ -1,10 +1,8 @@
 ### Hi there 👋
-<div>
+<div id="header" align"center">
   <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" />
 </div>
   
-  <iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
-<!--
 **sokolirasaha11/sokolirasaha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
