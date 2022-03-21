@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align"center">
-  <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" />
+  <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" />
 </div>
   
 **sokolirasaha11/sokolirasaha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
